@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Aparna S.
 
-<!--
-**aparnasudarsan/aparnasudarsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Computer Science graduate from Mahatma Gandhi University, passionate about full-stack web development. Currently specializing in the MEAN Stack at Luminar Technolab, focusing on Angular and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend:** HTML5, CSS3, JavaScript, Angular, React
+
+**Backend & Database:** Node.js, Express.js, MongoDB
+
+**Programming Languages:** C++
+
+## Education
+
+- BSc in Computer Science - Mahatma Gandhi University (2025)
+- MEAN Stack Web Development Expert Program - Luminar Technolab (Ongoing)
+
+## Let's Connect
+
+**LinkedIn:** https://www.linkedin.com/in/aparnasudarsan
+
+**Email:** aparnasudarsan670@gmail.com
+
+---
+
+![Aparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aparnasudarsan&show_icons=true&theme=radical)
