@@ -1,5 +1,4 @@
 
-You said:
 # 💫 About Me:
 Aparna S. - Full-Stack Web Developer<br>Computer Science graduate passionate about building dynamic web applications. Currently specializing in MEAN Stack development at Luminar Technolab, with a focus on Angular and React. Dedicated to clean code and modern web technologies.
 
